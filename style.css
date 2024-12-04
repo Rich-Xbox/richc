@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+body{
+    background: rgba(0, 0, 0, 1);
+
+}
+.navbar{
+display: flex;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    align-items: center;
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+    font-size: 30px;
+    padding: 10px;
+    align-items: center;
+    width: 1273px;
+height: 70px;
+gap: 0px;
+opacity: 0px;
+background: rgba(39, 44, 61, 1);
+
+
+}
+a{
+    text-decoration: none;
+    color: white;
+    transition: 0.3s all;
+    font-size: 22px;
+}
+a:hover{
+    color: orange;
+}
+.language{
+    width: 165;
+    width: 165.49px;
+height: 30px;
+top: 20px;
+left: 1070.59px;
+gap: 0px;
+opacity: 0px;
+background: rgba(0, 0, 0, 0.5);
+color: white;
+}
+input{
+    width: 241.87px;
+height: 30px;
+top: 20px;
+left: 790.53px;
+gap: 0px;
+border-radius: 5px ;
+opacity: 0px;
+background: rgba(64, 72, 100, 1);
+
+}
+.serch{
+    position: absolute;
+    left: 1280px;
+}
+.bg{
+    width: 1273px;
+    
+    width: 1220px;
+}
+.major{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+    color: white    ;
+}
+.cyber{
+    width: 1189px;
+height: 928px;
+top: 999px;
+left: 47px;
+gap: 0px;
+opacity: 0px;
+background: rgba(27, 30, 39, 1);
+
+}
+.kj{
+    width: 323px;
+height: 234px;
+top: 1124px;
+left: 709px;
+gap: 0px;
+opacity: 0px;
+
+}
+.cyberone{
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    
+}
+h2{
+    color:white;
+    padding:15px;
+    left: 450px;
+    padding-left: 225px;
+    padding-top: 80px;
+}
+.one{
+    display: flex;
+    justify-content: end;
+}
+.record{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+    font-size: 30px;
+    padding: 10px;
+    align-items: center;
+    width: 1189px;
+height: 70px;
+gap: 0px;
+opacity: 0px;
+background: rgba(39, 44, 61, 1);
+}
